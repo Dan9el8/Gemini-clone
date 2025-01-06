@@ -1,7 +1,7 @@
 import { useState, useContext } from 'react'
 import './Sidebar.css'
 import { assets } from '../../assets/assets'
-import { Context } from '../../context/Context'
+import { Context } from '../../context/Context.jsx'
 
 const Sidebar = () => {
 
