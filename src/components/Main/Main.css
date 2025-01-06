@@ -35,6 +35,7 @@
 .main .greet span{
     background: -webkit-linear-gradient(16deg, #4b90ff, #ff5546);
     -webkit-background-clip: text;
+    background-clip: text;  
     -webkit-text-fill-color: transparent;
 }
 
@@ -191,6 +192,6 @@
         padding: 5px 10px;
     }
     .search-box div{
-        gap; 5px;
+        gap: 5px;
     }
 }
